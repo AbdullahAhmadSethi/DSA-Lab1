@@ -1,2 +1,6 @@
-# \## This line is changed locally on conflict-branch
+# DSA-Lab1
 
+## Description
+This is a lab repository.
+
+## README updated during conflict resolution practice
